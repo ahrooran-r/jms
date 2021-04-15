@@ -1,11 +1,11 @@
-package jms.fundamental;
+package jms._1_fundamental;
 
 import javax.jms.*;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 import java.util.Enumeration;
 
-public class ManualQueueBrowser {
+public class _4_ManualQueueBrowser {
     public static void main(String[] args) throws NamingException, JMSException {
 
         InitialContext initialContext;

@@ -1,10 +1,10 @@
-package jms.fundamental;
+package jms._1_fundamental;
 
 import javax.jms.*;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 
-public class ManualTopic {
+public class _2_ManualTopic {
 
     public static void main(String[] args) throws NamingException, JMSException {
 

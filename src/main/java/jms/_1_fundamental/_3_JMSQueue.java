@@ -1,4 +1,4 @@
-package jms.fundamental;
+package jms._1_fundamental;
 
 import org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory;
 
@@ -7,7 +7,7 @@ import javax.jms.Queue;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 
-public class JMSQueue {
+public class _3_JMSQueue {
     public static void main(String[] args) throws NamingException {
 
         InitialContext initialContext;
