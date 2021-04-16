@@ -1,4 +1,4 @@
-package jms._6_guranteed_messaging._4_transactions._3_dups_ok_acknowledge;
+package jms._6_guranteed_messaging._4_transactions;
 
 import org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory;
 
